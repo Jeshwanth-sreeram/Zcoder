@@ -8,7 +8,7 @@ const Footer = () => {
 
   return (
     <div className="footer">
-      Created By  &copy; {newdate.getFullYear()} 
+      {newdate.getFullYear()} 
       <br></br>
       <div className="followme">
 
