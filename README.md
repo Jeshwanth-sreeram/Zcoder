@@ -191,10 +191,4 @@ npm run dev
 - Leaderboards & user analytics
 
 
-## License
 
-All rights reserved.  
-
-This project and its source code are protected. You may not use, copy, modify, distribute, or reproduce any part of this project without explicit written permissions from the author.
-
-© 2025 Annigandla Kameshwara Rao
